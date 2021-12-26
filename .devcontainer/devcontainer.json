@@ -13,6 +13,7 @@
     },
     
     "extensions": [
-		"golang.go"
+		"golang.go",
+		"ms-kubernetes-tools.vscode-kubernetes-tools"
 	]
 }
