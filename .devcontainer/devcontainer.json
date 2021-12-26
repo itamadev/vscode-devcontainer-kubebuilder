@@ -1,0 +1,18 @@
+{
+    "name": "go v1.17 with kubebuilder v3.1+",
+    "dockerFile": "Dockerfile",
+    "runArgs": [],
+
+    "settings": {
+        "terminal.integrated.profiles.linux":{
+            "sh": {
+                "path": "/bin/sh",
+                "args": ["-l"]
+            }
+        }
+    },
+    
+    "extensions": [
+		"golang.go"
+	]
+}
