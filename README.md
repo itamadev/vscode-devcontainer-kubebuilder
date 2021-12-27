@@ -1,5 +1,7 @@
 # DevContainer for kubebuidler opertor development
 
+This devcontainer is based on the [alpine golang 1.17](https://hub.docker.com/_/golang) docker image.
+
 ## Intoduction
 
 This repo contains a [DevContainer](https://code.visualstudio.com/docs/remote/containers) used and coupled with Visual Studio Code.
@@ -26,5 +28,3 @@ Other than that the devcontainer also comes with:
 ## Working with kubebuidler
 
 When working with kubebuilder its recommended reading [the kubebuilder book](https://book.kubebuilder.io/).
-
-This devcontainer is based on the [alpine golang 1.17](https://hub.docker.com/_/golang) docker image.
