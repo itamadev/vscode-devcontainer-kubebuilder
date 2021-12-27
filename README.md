@@ -14,7 +14,7 @@ This devcontainer uses a `Dockerfile`, it bundles up the basic prerequisites to 
 * `docker` version 17.03+
 * `kubectl` version v1.11.3+
 * `kubebuilder` version v3.1+
-* `kustomize` version
+* `kustomize` version v2.0
 * `controller-gen` version v0.7.0
 
 Other than that the devcontainer also comes with:
