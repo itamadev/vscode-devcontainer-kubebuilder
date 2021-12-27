@@ -1,4 +1,4 @@
-# DevContainer for kubebuidler opertor development
+# DevContainer for kubebuidler operator development
 
 This devcontainer is based on the [alpine golang 1.17](https://hub.docker.com/_/golang) docker image.
 
@@ -23,6 +23,7 @@ This devcontainer uses a `Dockerfile`, it bundles up the basic prerequisites to 
 
 Other than that the devcontainer also comes with:
 
+* `helm` version v3
 * `git` version 2.34.1
 
 ## Working with kubebuidler
