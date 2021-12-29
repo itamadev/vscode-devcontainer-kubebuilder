@@ -28,5 +28,8 @@ RUN wget https://get.helm.sh/helm-v3.2.0-linux-amd64.tar.gz && \
     rm -rf linux-amd64 && \
     rm -rf helm-v3.2.0-linux-amd64.tar.gz
 
+# Installing make
+RUN apk add make
+
 # Installing git
 RUN apk add git
