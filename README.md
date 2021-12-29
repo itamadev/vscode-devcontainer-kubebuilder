@@ -24,6 +24,7 @@ This devcontainer uses a `Dockerfile`, it bundles up the basic prerequisites to 
 Other than that the devcontainer also comes with:
 
 * `helm` version v3
+* `make` version 4.3
 * `git` version 2.34.1
 
 ## Working with kubebuidler
